@@ -1,3 +1,5 @@
+<img src="https://github.com/ravviolo/ravviolo/blob/main/hello.gif" / >
+
 ### Hi there 👋
 
 <!--
