@@ -23,6 +23,7 @@
 ![https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
 ![https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 ![https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge)
 ![https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
