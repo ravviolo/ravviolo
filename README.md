@@ -4,6 +4,7 @@
 🌱 Currently learning SSR, testing<br />
 ⭐ Looking forward to start my professional career as a Front-End Engineer<br />
 👯 Willing to collaborate on React and Typescript projects<br />
+📫 How to contact me: j.slipko21@gmail.com <br />
 ⚡ Fun fact: Lofi beats fit well with VSCode synthwave theme ✨<br />
 
 ## ⚒️ Skills and Tools
@@ -40,20 +41,12 @@
 
 ## 🤝 Reach me
 
-[![https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](https://google.com)
-[![https://img.shields.io/badge/-Messenger-00B2FF?logo=messenger&logoColor=white&style=for-the-badge](https://img.shields.io/badge/-Messenger-00B2FF?logo=messenger&logoColor=white&style=for-the-badge)](https://google.com)
+<a href="mailto:j.slipko21@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"/>
+</a>
 
-<!--
-**ravviolo/ravviolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="http://m.me/jolslip" target="_blank">
+  <img src="https://img.shields.io/badge/-Messenger-00B2FF?logo=messenger&logoColor=white&style=for-the-badge"/>
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
