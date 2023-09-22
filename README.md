@@ -1,12 +1,6 @@
 ![Banner](https://github.com/ravviolo/ravviolo/blob/main/hello.gif)
 <p align="center">🎯 Self-taught developer 🎨 Design enthusiast 🐱 Cat lover</p>
 
-🌱 Currently learning SSR, testing<br />
-⭐ Looking forward to start my professional career as a Front-End Engineer<br />
-👯 Willing to collaborate on React and Typescript projects<br />
-📫 How to contact me: j.slipko21@gmail.com <br />
-⚡ Fun fact: Lofi beats fit well with VSCode synthwave theme ✨<br />
-
 ## ⚒️ Skills and Tools
 ![https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
